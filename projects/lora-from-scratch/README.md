@@ -1,4 +1,4 @@
-# LoRA from Scratch — Raw PyTorch, No Wrappers
+# LoRA from Scratch : Raw PyTorch, No Wrappers
 
 Implementing Low-Rank Adaptation without HuggingFace PEFT to understand the tensor mechanics that actually drive memory savings.
 
