@@ -87,9 +87,10 @@ cd My-PocketBook/projects/lora-from-scratch
 jupyter notebook LoRA-from-Scratch.ipynb
 ```
 
-Or run it on Kaggle: *(link to public notebook)*
+Or run it on Kaggle: *([link to public notebook](https://www.kaggle.com/code/shakhoyatshujon/lora-from-scratch))*
 
 ## References
 
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) — Hu et al., 2021
 - [PyTorch Documentation](https://pytorch.org/docs/stable/)
+- [Sebastian Raschka, PhD's LoRA walkthrough on Lightning.ai]( https://lightning.ai/lightning-ai/environments/code-lora-from-scratch)
